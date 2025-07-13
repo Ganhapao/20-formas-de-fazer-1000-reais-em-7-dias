@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>20 formas de ganhar R$1.000 em 7 dias</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>💰 20 formas de ganhar R$1.000 em 7 dias</h1>
+    <p class="subtitulo">Descubra estratégias práticas, rápidas e reais para aumentar sua renda agora!</p>
+
+    <img src="ebook-capa.png" alt="Capa do eBook" class="ebook-img">
+
+    <ul class="benefits">
+      <li>✅ Métodos testados e acessíveis</li>
+      <li>✅ Para quem quer sair do zero</li>
+      <li>✅ Sem precisar de grandes investimentos</li>
+    </ul>
+
+    <a href="https://seulink.com/comprar-ebook" class="btn">📘 Quero meu eBook agora!</a>
+
+    <p class="disclaimer">*Apenas para fins educacionais. Resultados podem variar.</p>
+  </div>
+</body>
+</html>
