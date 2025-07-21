@@ -1,97 +1,61 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>20 formas de ganhar R$1.000 em 7 dias</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
-    <h1>💰 20 formas de ganhar R$1.000 em 7 dias</h1>
-    <p class="subtitulo">Descubra estratégias práticas, rápidas e reais para aumentar sua renda agora!</p>
+    <h1>🚀 Descubra as 20 Formas de Ganhar R$1.000 em Apenas 7 Dias</h1>
+    <p class="subtitulo">
+      Mesmo que você esteja começando do zero, sem dinheiro para investir, e com pouco tempo disponível!
+    </p>
 
-    <img src="Ebook-capa.png" alt="Capa do eBook" class="ebook-img">
+    <img src="ebook-capa.png" alt="Capa do eBook" class="ebook-img" />
 
+    <h2>💡 O que você vai encontrar nesse eBook:</h2>
     <ul class="benefits">
-      <li>✅ Métodos testados e acessíveis</li>
-      <li>✅ Para quem quer sair do zero</li>
-      <li>✅ Sem precisar de grandes investimentos</li>
+      <li>✅ Estratégias fáceis, práticas e testadas</li>
+      <li>✅ Não precisa investir dinheiro para começar</li>
+      <li>✅ Ideal para quem está desempregado ou precisa de renda extra</li>
+      <li>✅ A maioria das ideias pode ser aplicada ainda hoje</li>
+      <li>✅ Serve para qualquer região do Brasil</li>
     </ul>
 
-    <a href="https://pag.ae/7_SV5j9B4" class="btn">📘 Quero meu eBook agora!</a>
+    <div class="bonus">
+      <h3>🎁 BÔNUS EXCLUSIVO!</h3>
+      <p>
+        Ao comprar hoje, você recebe de presente um mini guia com <strong>10 sites que pagam em dólar</strong> por tarefas simples.
+      </p>
+    </div>
 
-    <p class="disclaimer">*Apenas para fins educacionais. Resultados podem variar.</p>
+    <div class="testimonials">
+      <h2>📣 O que estão dizendo...</h2>
+      <blockquote>
+        “Consegui fazer R$1.280 em apenas 5 dias com duas das ideias do eBook. Valeu cada centavo!”
+        <br /><strong>— Felipe R., São Paulo/SP</strong>
+      </blockquote>
+      <blockquote>
+        “Nunca imaginei que ideias tão simples poderiam gerar renda tão rápido. Super recomendo!”
+        <br /><strong>— Bruna L., Recife/PE</strong>
+      </blockquote>
+    </div>
+
+    <div class="garantia">
+      <h3>🔒 Garantia 100% de Satisfação</h3>
+      <p>
+        Se após a leitura você não achar que valeu a pena, é só enviar um e-mail que devolvemos seu dinheiro. Simples assim.
+      </p>
+    </div>
+
+    <a href="https://pag.ae/SEULINKAQUI" class="btn">
+      📘 Quero começar agora e faturar R$1.000 em 7 dias!
+    </a>
+    <p class="urgencia">⚠️ Oferta por tempo limitado – garanta o seu antes que acabe!</p>
+
+    <p class="disclaimer">*Este produto é destinado a fins educacionais. Resultados podem variar.</p>
   </div>
 </body>
 </html>
-
-
-body {
-  font-family: Arial, sans-serif;
-  background: #f7f7f7;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-  color: #333;
-}
-
-.container {
-  max-width: 600px;
-  margin: auto;
-  padding: 30px 20px;
-  background: #fff;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
-  border-radius: 12px;
-  margin-top: 50px;
-}
-
-h1 {
-  font-size: 28px;
-  color: #0c4a6e;
-}
-
-.subtitulo {
-  font-size: 18px;
-  margin-bottom: 20px;
-}
-
-.ebook-img {
-  width: 200px;
-  margin: 20px 0;
-  border-radius: 8px;
-}
-
-.benefits {
-  list-style: none;
-  padding: 0;
-  text-align: left;
-  margin: 20px 0;
-}
-
-.benefits li {
-  margin: 10px 0;
-  font-size: 16px;
-}
-
-.btn {
-  display: inline-block;
-  background: #16a34a;
-  color: white;
-  padding: 12px 24px;
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 16px;
-  margin-top: 20px;
-  transition: 0.3s;
-}
-
-.btn:hover {
-  background: #15803d;
-}
-
-.disclaimer {
-  font-size: 12px;
-  color: #666;
-  margin-top: 20px;
-}
